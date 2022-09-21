@@ -1,0 +1,5 @@
+export const them_capNhat_sv = 'them_capNhat_sv'
+export const xoa_sv = 'xoa_sv'
+export const sua_sv = 'sua_sv'
+export const search = 'search'
+export const value_search = 'value_search'
