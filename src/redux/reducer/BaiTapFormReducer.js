@@ -2,8 +2,8 @@ import { search, sua_sv, them_capNhat_sv, value_search, xoa_sv } from "../types/
 
 const initialState = {
    mangSinhVien: [
-      // { maSV: 1, hoTen: 'aaa', phone: '0323699', email: 'aa@mail.com' },
-      // { maSV: 2, hoTen: 'bbb', phone: '0323699', email: 'aa@mail.com' },
+      { maSV: 1, hoTen: 'aaa', phone: '0323699', email: 'aa@mail.com' },
+      { maSV: 2, hoTen: 'bbb', phone: '0323699', email: 'aa@mail.com' },
    ],
    sinhVienEdit: {},
    dataMangSinhVien: [
